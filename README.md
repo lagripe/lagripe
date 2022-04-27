@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ![Lagripe's github stats](https://github-readme-stats.vercel.app/api?username=lagripe&count_private=true&show_icons=true&theme=radical)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Dart](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 
