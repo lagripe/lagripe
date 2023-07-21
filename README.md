@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Lagripe's github stats](https://github-readme-stats.vercel.app/api?username=lagripe&count_private=true&show_icons=true&theme=radical)
+![Lagripe's github stats](https://github-readme-stats.vercel.app/api?username=lagripe&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
